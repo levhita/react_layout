@@ -1,75 +1,165 @@
 [
     {
         "title": "Secretos de un programador",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/1.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/1.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Yeah right",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/2.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/2.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Uff",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/3.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/3.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "\"Lenguajes\"",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/4.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/4.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "HTML",
+        "icon": "icons/html.png",
+        "time": "1h"
     },
     {
         "title": "¡Zaquese!",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/5.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/5.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Internet Explorer",
+        "icon": "icons/ie.png",
+        "time": "1h"
     },
     {
         "title": "The Real Language",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/6.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/6.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "HTML",
+        "icon": "icons/html.png",
+        "time": "1h"
     },
     {
         "title": "HTML > JSX",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/7.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/7.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "HTML",
+        "icon": "icons/html.png",
+        "time": "3h"
     },
     {
         "title": "Asitole de mi corazón",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/8.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/8.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Must Turn!",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/9.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/9.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Lisa lo sabe",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/10.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/10.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Pa' que vine a este taller...",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/11.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/11.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "12h"
     },
     {
         "title": "JS for life!",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/12.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/12.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Faltó buscando al avatar en este post",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/13.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/13.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Facts",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/14.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/14.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Siguiente año, taller de Java",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/15.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/15.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "1h"
     },
     {
         "title": "Un clásico",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/16.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/16.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "2h"
     },
     {
         "title": "Just another pre-compiler and we are done",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/17.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/17.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Javascript",
+        "icon": "icons/js.png",
+        "time": "4h"
     },
     {
         "title": "IE",
-        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/18.png"
+        "img": "https://raw.githubusercontent.com/levhita/react_layout/master/public/assets/images/18.png",
+        "points": 220,
+        "comments": 24 ,
+        "section": "Internet Explorer",
+        "icon": "icons/ie.png",
+        "time": "9h"
     }
 ]
     
