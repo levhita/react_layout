@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Hot",
+        "icon":"icons/hot.png",
+        "url": "/hot/"
+    },
+    {
+        "title": "Trending",
+        "icon":"icons/trending.png",
+        "url": "/hot/"
+    },
+    {
+        "title": "Fresh",
+        "icon":"icons/fresh.png",
+        "url": "/fresh/"
+    }
+]

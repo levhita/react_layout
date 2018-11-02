@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import './Posts.css';
 import Post from './Post';
-import postsJson from './postsJson';
+import posts from './data/posts.json';
 
 class Posts extends Component {
   
@@ -9,7 +9,7 @@ class Posts extends Component {
     super(props);
     
     this.state = {
-      posts: postsJson
+      posts: posts
     };
   
   }

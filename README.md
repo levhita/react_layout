@@ -1,3 +1,15 @@
+# Maquetado estático con React
+
+Para este taller vamos a replicar la interface de [9gag](https://9gag.com/) , no detalladamente, si no solo como un pretexto para ejercitar un poco de React. 
+
+
+
+
+
+
+
+# React Documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Javascript",
+        "description": "Mr. Homer, If you want to kill yourself we also sell guns.",
+        "icon": "icons/javascript.png",
+        "url": "/section/javascript/",
+        "tags": ["noobs", "frontend", "funny"]
+    },
+    {
+        "title": "PHP",
+        "description": "2005 llamó, dice que si le devuelves su lenguaje.",
+        "icon": "icons/php.png",
+        "url": "/section/php/",
+        "tags": ["backend", "suicide", "not even funny anymore"]
+    },
+    {
+        "title": "Python",
+        "description": "¿Punto y coma?, aquí no hacemos eso.",
+        "icon": "icons/python.png",
+        "url": "/section/python/",
+        "tags": ["data science", "frontend", "backend"]
+    },
+    {
+        "title": "Visual Basic",
+        "description": "¿Eso aún existe?",
+        "icon": "icons/vb.png",
+        "url": "/section/vb/",
+        "tags": ["really", "seriously", "can't believe it"]
+    }
+]
