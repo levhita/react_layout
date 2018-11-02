@@ -2,9 +2,33 @@
 
 Para este taller vamos a replicar la interface de [9gag](https://9gag.com/) , no detalladamente, si no solo como un pretexto para ejercitar un poco de React. 
 
+## Paso 1: Dividir en bloques
 
+![](docs/full.png)
 
+### Navegación 
+![](docs/nav.png)
 
+### Sidebar
+![](docs/category.png)
+
+### Encabezado de Categoria
+![](docs/category_header.png)
+
+### Publicación individual
+![](docs/post.png)
+
+### Sugerencias
+![](docs/suggestions.png)
+
+### Anuncios
+Los anuncios generalmente son incrustados por externos, como nuestra plataforma es propia, de momento no los incrustaremos y los dejaremos fuera del flujo.
+
+## Paso 2: identificar elementos con estructura o data en comun
+
+1. Popular sections, Favorites y Sections.
+2. Posts
+3. Sugerencias
 
 
 
