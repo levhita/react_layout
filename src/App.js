@@ -3,7 +3,7 @@ import './App.css';
 
 import Categories from './Categories';
 import Posts from './Posts';
-//import Suggestions from './Suggestions';
+import Suggestions from './Suggestions';
 
 class App extends Component {
   render() {
@@ -20,7 +20,7 @@ class App extends Component {
         
         <Categories />
         <Posts/>
-        {/*<Suggestions/>*/}
+        <Suggestions/>
       
       </div>
     );
