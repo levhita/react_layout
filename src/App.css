@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    color: white;
+    background: black;
+}
+.brand {
+    display: inline-block;
+}
+.menu {
+    display: inline-block;
+}
+.menu > li {
+    display: inline-block;
+    margin: 0 23px;
+}
